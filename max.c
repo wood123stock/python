@@ -28,6 +28,6 @@ int main()
             scanf("%d",&arr[i][j]);
         }
     }
-    max(arr, n,m);
+    max(n,m, arr);
     return 0;
 }
